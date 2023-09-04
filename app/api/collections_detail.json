@@ -1,0 +1,306 @@
+[
+  {
+    "id": 482865238,
+    "updated_at": "2023-07-11T18:32:46-04:00",
+    "body_html": "<p>The best selling ipod ever</p>",
+    "default_product_image": null,
+    "handle": "smart-ipods",
+    "image": {
+      "created_at": "2023-07-11T18:32:46-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0005/4838/0009/collections/ipod_nano_8gb.jpg?v=1689114766"
+    },
+    "title": "Smart iPods",
+    "sort_order": "manual",
+    "published_at": "2017-08-31T20:00:00-04:00",
+    "products": [
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJsYXN0X2lkIjo3MDE3MjQ0MTY0MTUyLCJsYXN0X3ZhbHVlIjoiNzAxNzI0NDE2NDE1MiJ9",
+      "current_page": 2
+    }
+  },
+  {
+    "id": 841564295,
+    "updated_at": "2023-07-11T18:32:46-04:00",
+    "body_html": "<p>The best selling ipod ever</p>",
+    "default_product_image": null,
+    "handle": "ipods",
+    "image": {
+      "created_at": "2023-07-11T18:32:46-04:00",
+      "src": "https://cdn.shopify.com/s/files/1/0005/4838/0009/collections/ipod_nano_8gb.jpg?v=1689114766"
+    },
+    "title": "IPods",
+    "sort_order": "manual",
+    "published_at": "2017-08-31T20:00:00-04:00",
+    "products": [
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJsYXN0X2lkIjo3MDE3MjQ0MTY0MTUyLCJsYXN0X3ZhbHVlIjoiNzAxNzI0NDE2NDE1MiJ9",
+      "current_page": 2
+    }
+  },
+  {
+    "id": 395646240,
+    "updated_at": "2023-07-11T18:32:46-04:00",
+    "body_html": "<p>The best selling ipod ever. Again</p>",
+    "default_product_image": {
+      "id": 850703190,
+      "created_at": "2023-07-11T18:32:46-04:00",
+      "position": 1,
+      "updated_at": "2023-07-11T18:32:46-04:00",
+      "product_id": 632910392,
+      "src": "https://cdn.shopify.com/s/files/1/0005/4838/0009/products/ipod-nano.png?v=1689114766",
+      "variant_ids": [],
+      "width": 123,
+      "height": 456
+    },
+    "handle": "ipods_two",
+    "image": null,
+    "title": "IPods Two",
+    "sort_order": "manual",
+    "published_at": "2017-08-31T20:00:00-04:00",
+    "products": [
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJsYXN0X2lkIjo3MDE3MjQ0MTY0MTUyLCJsYXN0X3ZhbHVlIjoiNzAxNzI0NDE2NDE1MiJ9",
+      "current_page": 2
+    }
+  },
+  {
+    "id": 691652237,
+    "updated_at": "2023-07-11T18:32:46-04:00",
+    "body_html": "<p>No ipods here</p>",
+    "default_product_image": null,
+    "handle": "non-ipods",
+    "image": null,
+    "title": "Non Ipods",
+    "sort_order": "manual",
+    "published_at": "2017-08-31T20:00:00-04:00",
+    "products": [
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      },
+      {
+        "body_html": "<p>The best selling iPods ever</p>",
+        "handle": "ipods",
+        "image": {
+          "src": "http://static.shopify.com/collections/ipod.jpg?0",
+          "alt": "iPods",
+          "width": 500,
+          "height": 488,
+          "created_at": "2018-04-19T09:34:47-04:00"
+        },
+        "id": 841564295,
+        "published_at": "2008-02-01T19:00:00-05:00",
+        "published_scope": "global",
+        "sort_order": "manual",
+        "template_suffix": "custom",
+        "title": "IPods",
+        "updated_at": "2008-02-01T19:00:00-05:00"
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": true,
+      "endCursor": "eyJsYXN0X2lkIjo3MDE3MjQ0MTY0MTUyLCJsYXN0X3ZhbHVlIjoiNzAxNzI0NDE2NDE1MiJ9",
+      "current_page": 2
+    }
+  }
+]
