@@ -13,12 +13,8 @@ async function getData() {
 
   const url = `https://www.facebook.com/events/1741420522962735`
 
-
-
   // Scrape event using URL
   const eventData = await scrapeFbEvent(url);
-  console.log(eventData.name);
-
   fsPromises.writeFile('data.json', JSON.stringify(eventData));
 
   return eventData
